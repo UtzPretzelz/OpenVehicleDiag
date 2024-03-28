@@ -29,4 +29,4 @@ Parses Mercedes CBF Files into OpenVehicleDiag's JSON
 Parses Mercedes SMR Files into JSON (**DOES NOT FUNCTION FULLY**)
 
 ### Common
-Common library for both parser and GUI Application
+Common lib,rary for both parser and GUI Application
