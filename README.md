@@ -1,4 +1,4 @@
-![](app_rust/img/logo.png)
+[](app_rust/img/logo.png)
 
 Open Vehicle Diagnostics (OVD) is a Rust-based open source vehicle ECU diagnostic platform that makes use of the J2534-2 protocol, as well as SocketCAN on Linux!
 
